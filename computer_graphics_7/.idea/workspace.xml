@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="db2f5ade-e041-4ea2-8d62-75bf5268ee0e" name="Default Changelist" comment="" />
+    <list default="true" id="65275f94-ba79-479b-8a75-be6cea3ff8b6" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,11 +15,11 @@
       </list>
     </option>
   </component>
-  <component name="ProjectId" id="1Yd1ixKD6qmMokvFI0g36gSy0ux" />
+  <component name="ProjectId" id="1YymT1BVk3AsxAZaEqX0tviYkNC" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../computer_graphics_2/main.py" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/main.py" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -35,13 +35,13 @@
   </component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
-      <module name="computer_graphics_5" />
+      <module name="computer_graphics_7" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="C:\Users\bigbo\PycharmProjects\computer_graphics_5\venv\Scripts\python.exe" />
+      <option name="SDK_HOME" value="C:\Users\bigbo\PycharmProjects\computer_graphics_7\venv\Scripts\python.exe" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
@@ -62,24 +62,15 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="db2f5ade-e041-4ea2-8d62-75bf5268ee0e" name="Default Changelist" comment="" />
-      <created>1583257787432</created>
+      <changelist id="65275f94-ba79-479b-8a75-be6cea3ff8b6" name="Default Changelist" comment="" />
+      <created>1583923212423</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1583257787432</updated>
-      <workItem from="1583257789739" duration="2376000" />
-      <workItem from="1583420809655" duration="8144000" />
-      <workItem from="1583485772416" duration="599000" />
-      <workItem from="1583523035589" duration="233000" />
-      <workItem from="1583523365984" duration="65000" />
-      <workItem from="1583916743009" duration="116000" />
-      <workItem from="1584043119063" duration="1453000" />
-      <workItem from="1584098203883" duration="2906000" />
-      <workItem from="1584179971838" duration="254000" />
-      <workItem from="1584180265999" duration="95000" />
-      <workItem from="1584180583220" duration="4871000" />
-      <workItem from="1584186309766" duration="76000" />
-      <workItem from="1584953462151" duration="215000" />
+      <updated>1583923212423</updated>
+      <workItem from="1583923249949" duration="6995000" />
+      <workItem from="1584042448542" duration="426000" />
+      <workItem from="1584044693674" duration="2615000" />
+      <workItem from="1584186091853" duration="167000" />
     </task>
     <servers />
   </component>
@@ -87,6 +78,6 @@
     <option name="version" value="1" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/computer_graphics_5$main.coverage" NAME="main Coverage Results" MODIFIED="1584186369667" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/computer_graphics_7$main.coverage" NAME="main Coverage Results" MODIFIED="1584186230611" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
